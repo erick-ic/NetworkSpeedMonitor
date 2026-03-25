@@ -1,6 +1,7 @@
 # NetworkSpeedMonitor
-图示：打包后的应用在菜单栏显示
+
 ![alt text](image.png)
+(图示：打包后的应用在菜单栏显示)
 
 # 编译流程
 ```bash
@@ -31,6 +32,7 @@ OPTIONS = {
     },
     'packages': ['rumps', 'psutil'],  # 打包依赖库
     'includes': ['time'],
+    'iconfile':'speed_wave.png',     # 应用图标
 }
 
 setup(

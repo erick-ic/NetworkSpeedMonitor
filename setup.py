@@ -12,7 +12,7 @@ OPTIONS = {
     },
     'packages': ['rumps', 'psutil'],  # 打包依赖库
     'includes': ['time'],
-    'iconfile':'speed_wave.png'
+    'iconfile':'speed_wave.png',  # 应用图标
 }
 
 setup(
