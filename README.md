@@ -1,7 +1,7 @@
 # NetworkSpeedMonitor
 
 ![alt text](image.png)
-(图示：打包后的应用在菜单栏显示)
+*图示：打包后的应用在菜单栏显示*
 
 # 编译流程
 ```bash
